@@ -1,0 +1,109 @@
+body
+{
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+background-color:#efeded;
+background-image: linear-gradient(#efeded,#b7b2b2);
+background-image:url(img/degrade.jpg);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+}
+p, h1, h2, ul, figcaption
+{
+font-family: 'Open sans', sans-serif;
+color: grey;
+}
+
+a
+{
+color:blue;
+}
+a:hover
+{
+background-color:lightgrey;
+border-radius: 5px;
+}
+a:visited
+{
+color:darkgrey;
+}
+q
+{
+display:block;
+width: 60%;
+text-align:center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 80px;
+margin-bottom: 80px;
+font-size:160%;
+background-color:lightgrey;
+border-left:3px solid firebrick;
+font-style:italic;
+}
+ul
+{
+width: 25%;
+}
+.farmer
+{
+border-left: 3px solid blue;
+}
+header > blockquote
+{
+background-color: lightyellow;
+width: 30%;
+border-radius: 5px;
+margin-left: 0;
+}
+.good
+{
+color: green;
+text-transform: capitalize;
+}
+.bad
+{
+color: red;
+text-transform: capitalize;
+}
+.grey
+{
+background-color: #d3d3d3;
+}
+.white
+{
+background-color:white;
+}
+#gthumb
+{
+background-image:url(img/bien.png);
+padding-right:20px;
+background-repeat: no-repeat;
+background-position:right;
+background-size: 1em;
+}
+#bthumb
+{
+background-image:url(img/mal.png);
+background-repeat: no-repeat;
+background-position:right;
+background-size:1em;
+}
+#cat
+{
+background-image:url(img/chat.png);
+background-repeat:no-repeat;
+background-position: right;
+background-size: 1em;
+}
+#img1
+{
+float:left;
+margin-left: auto;
+}
+.img
+{
+margin-left: auto;
+}
