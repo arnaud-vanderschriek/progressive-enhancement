@@ -5,7 +5,7 @@ margin-left: auto;
 margin-right: auto;
 background-color:#efeded;
 background-image: linear-gradient(#efeded,#b7b2b2);
-background-image:url(img/degrade.jpg);
+background-image:url(../progressive-enhancement/assets/img/degrade.jpg);
 background-repeat:no-repeat;
 background-position:center;
 background-size:cover;
