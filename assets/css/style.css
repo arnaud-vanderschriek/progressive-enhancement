@@ -12,10 +12,9 @@ background-size:cover;
 }
 p, h1, h2, ul, figcaption, caption
 {
-font-family: 'Open sans', sans-serif;
+font-family: Open sans, sans-serif, Times New Roman;
 color: grey;
 }
-
 a
 {
 color:blue;
